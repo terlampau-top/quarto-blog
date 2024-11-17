@@ -47,5 +47,12 @@
     "title": "What I Learned Today",
     "section": "Reflections",
     "text": "Reflections\nI loss tracks of how much I create blog and abandon it again and again. Now trying to use quarto to make writing simpler. Let’s try if using simpler and dedicated tools like rstudio with quarto can make me commit to writing. Quarto can be used for a lot of things too that make me want to learn it. Just like emacs but focus on writing."
+  },
+  {
+    "objectID": "posts/day-1-test-quarto.html#features",
+    "href": "posts/day-1-test-quarto.html#features",
+    "title": "What I Learned Today",
+    "section": "Features",
+    "text": "Features\n\nRstudio to write\nSetup github pages to automatically deploy new blog update after a commit to main\nGonna read this later to upgrade this quarto blog features."
   }
 ]

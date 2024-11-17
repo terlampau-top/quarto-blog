@@ -19,3 +19,5 @@ I loss tracks of how much I create blog and abandon it again and again. Now tryi
 -   Rstudio to write
 
 -   Setup github pages to automatically deploy new blog update after a commit to main
+
+-   Gonna read [this](https://quarto.org/docs/websites/website-blog.html) later to upgrade this quarto blog features.
